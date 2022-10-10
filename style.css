@@ -1,18 +1,16 @@
 body{
-background-color:rgba(127, 255, 212, 0.87);
+background-color:rgb(210, 240, 248) ;
 } 
 
-
 h1{
-color:rgba(3, 0, 5, 0.856);
-font: family 70px; ;
+color:rgb(0, 0, 0) ;
+font: family 40px; ;
 background: ;
 }
 
-
 p{
-color:rgb(0, 4, 7) ;
+color:rgb(255, 255, 255) ;
 font-family: ;
-font-size:50px ;
+font-size: 50px;
 background: ;
 }
